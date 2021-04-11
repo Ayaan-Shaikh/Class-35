@@ -13,7 +13,7 @@ function setup(){
 
 function draw(){
      
-    background("white");
+    background(0255);
 
     if(position!==undefined){
         if(keyDown(LEFT_ARROW)){
